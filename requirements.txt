@@ -2,3 +2,4 @@ torch
 Cython
 transformers
 tensorboard
+pypinyin
